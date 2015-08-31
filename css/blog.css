@@ -175,6 +175,17 @@ letter-spacing: -2px;
 }
 
 
+/*blog post page*/
+ 
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+ 
+
 /* Pagination */
 .pager {
   margin-bottom: 60px;
