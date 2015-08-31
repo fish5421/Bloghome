@@ -176,10 +176,15 @@ letter-spacing: -2px;
 
 
 /*blog post page*/
+
+#share-button p{
+  font-weight: 700;
+  font-size: 24px;
+}
  
 #share-buttons img {
 width: 35px;
-padding: 5px;
+padding: 2px;
 border: 0;
 box-shadow: 0;
 display: inline;
